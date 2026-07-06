@@ -1,0 +1,25 @@
+Type,Feature,SHAP Importance
+L,Type,0.39937252
+L,Air_temperature_K_,0.37689486
+L,Process_temperature_K_,0.68012404
+L,Rotational_speed_rpm_,1.7021562
+L,Torque_Nm_,0.48190805
+L,Tool_wear_min_,2.2980468
+L,temperature_difference,1.5258906
+L,Mechanical_Power_W_,1.6578231
+M,Type,0.1519377
+M,Air_temperature_K_,0.3973695
+M,Process_temperature_K_,0.6982155
+M,Rotational_speed_rpm_,1.7281557
+M,Torque_Nm_,0.43135017
+M,Tool_wear_min_,2.341376
+M,temperature_difference,1.4642854
+M,Mechanical_Power_W_,1.694021
+H,Type,1.936486
+H,Air_temperature_K_,0.48130962
+H,Process_temperature_K_,0.68175256
+H,Rotational_speed_rpm_,1.4510036
+H,Torque_Nm_,0.4759006
+H,Tool_wear_min_,2.0916836
+H,temperature_difference,1.394159
+H,Mechanical_Power_W_,1.7108055

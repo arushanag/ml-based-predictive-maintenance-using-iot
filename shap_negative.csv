@@ -1,0 +1,9 @@
+Feature,Mean SHAP
+Tool_wear_min_,-1.8230199
+Mechanical_Power_W_,-1.5639035
+temperature_difference,-1.307554
+Rotational_speed_rpm_,-0.9745815
+Process_temperature_K_,-0.5854008
+Type,-0.46759415
+Torque_Nm_,-0.3546343
+Air_temperature_K_,-0.3120777

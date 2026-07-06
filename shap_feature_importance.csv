@@ -1,0 +1,9 @@
+Feature,SHAP Importance
+Tool_wear_min_,2.2598357
+Mechanical_Power_W_,1.6953166
+Rotational_speed_rpm_,1.6400081
+temperature_difference,1.4492782
+Type,0.728054
+Process_temperature_K_,0.69120866
+Torque_Nm_,0.45048094
+Air_temperature_K_,0.42103198

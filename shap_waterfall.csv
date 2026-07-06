@@ -1,0 +1,9 @@
+Feature,Feature Value,SHAP Value
+Type,1.0,0.33625865
+Air_temperature_K_,300.5,-0.26898876
+Process_temperature_K_,309.8,0.4458703
+Rotational_speed_rpm_,1345.0,3.130705
+Torque_Nm_,62.7,0.5782802
+Tool_wear_min_,153.0,-1.6155739
+temperature_difference,9.300000000000011,-0.83469886
+Mechanical_Power_W_,8831.174,0.14033909
