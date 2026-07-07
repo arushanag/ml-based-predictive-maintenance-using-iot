@@ -1,0 +1,11 @@
+Machine ID,Machine Type,Failure Probability,Health Score,Risk Level,Predicted Status,Machine Status
+M-1950,2,0.999972,0.0,High,Failure Predicted,Critical
+M-0503,1,0.9995376,0.05,High,Failure Predicted,Critical
+M-0065,1,0.99951565,0.05,High,Failure Predicted,Critical
+M-1863,1,0.999511,0.05,High,Failure Predicted,Critical
+M-0675,1,0.9994254,0.06,High,Failure Predicted,Critical
+M-0041,1,0.9994018,0.06,High,Failure Predicted,Critical
+M-0525,1,0.99929416,0.07,High,Failure Predicted,Critical
+M-1439,1,0.9992041,0.08,High,Failure Predicted,Critical
+M-1226,1,0.9989862,0.1,High,Failure Predicted,Critical
+M-1775,2,0.9989849,0.1,High,Failure Predicted,Critical

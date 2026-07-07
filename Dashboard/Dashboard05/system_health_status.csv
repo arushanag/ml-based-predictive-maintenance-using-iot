@@ -1,0 +1,6 @@
+Component,Status,Uptime (%),Last Updated
+Prediction Engine,Online,99.8,2026-07-06 16:18:19
+Sensor Network,Healthy,99.9,2026-07-06 16:18:19
+Database,Connected,99.7,2026-07-06 16:18:19
+Alert Service,Running,99.9,2026-07-06 16:18:19
+Dashboard Refresh,Active,100.0,2026-07-06 16:18:19
