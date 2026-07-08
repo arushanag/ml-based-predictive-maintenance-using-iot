@@ -182,37 +182,35 @@ ML-Based-Predictive-Maintenance-Using-IoT
 
 ## Dashboard 01
 
-![Dashboard 01](screenshots/dashboard01_executive.png)
-
+![Dashboard 01](screenshots/01 Executive Overview.png)
 ---
 
 ## Dashboard 02
 
-![Dashboard 02](screenshots/dashboard02_machine_health.png)
+![Dashboard 02](screenshots/02 Machine Health Monitoring.png)
 
 ---
 
 ## Dashboard 03
 
-![Dashboard 03](screenshots/dashboard03_shap.png)
+![Dashboard 03](screenshots/03 Explainable AI & Root Cause Analysis.png)
 
 ---
 
 ## Dashboard 04
 
-![Dashboard 04](screenshots/dashboard04_model_performance.png)
-
+![Dashboard 04](screenshots/04  Predictive Model Performance.png)
 ---
 
 ## Dashboard 05
 
-![Dashboard 05](screenshots/dashboard05_live_monitoring.png)
+![Dashboard 05](screenshots/05  Live Prediction Monitoring.png)
 
 ---
 
 ## Dashboard 06
 
-![Dashboard 06](screenshots/dashboard06_rul_prediction.png)
+![Dashboard 06](screenshots/06  Remaining Useful Life (RUL) Prediction.png)
 
 ---
 
